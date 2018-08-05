@@ -2,9 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:../Podfile">
+      location = "group:firebaseMemoryLeak.xcodeproj">
    </FileRef>
    <FileRef
-      location = "self:firebaseMemoryLeak.xcodeproj">
+      location = "group:Pods/Pods.xcodeproj">
    </FileRef>
 </Workspace>
